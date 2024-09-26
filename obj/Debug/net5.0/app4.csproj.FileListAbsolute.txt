@@ -13,3 +13,4 @@ C:\Users\davit\source\repos\app4\app4\obj\Debug\net5.0\refint\app4.dll
 C:\Users\davit\source\repos\app4\app4\obj\Debug\net5.0\app4.pdb
 C:\Users\davit\source\repos\app4\app4\obj\Debug\net5.0\app4.genruntimeconfig.cache
 C:\Users\davit\source\repos\app4\app4\obj\Debug\net5.0\ref\app4.dll
+C:\Users\davit\source\repos\app4\app4\obj\Debug\net5.0\app4.sourcelink.json
